@@ -1,16 +1,21 @@
 # calculator
 
-A new Flutter project.
+its asimple calculator by using flutter and dart 
+its made to do some operations(add - sub - divition ...etc)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
 
-A few resources to get you started if this is your first Flutter project:
+## Geting Start
+### Prerequisites:
+- Your computer must be running Windows 11, build 22000 or newer.
+- you must install visual studio code
+- install SDK for dart and flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Get the code:
+- [https://github.com/elhamdullah/task3_calculator.git]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot 2024-10-24 192724](https://github.com/user-attachments/assets/9168901a-cb37-41c7-b631-1bb3c91fc53c)
