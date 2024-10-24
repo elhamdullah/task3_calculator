@@ -9,7 +9,7 @@ its made to do some operations(add - sub - divition ...etc)
 
 ## Geting Start
 ### Prerequisites:
-- Your computer must be running Windows 11, build 22000 or newer.
+- Your computer must be running Windows 11, or newer.
 - you must install visual studio code
 - install SDK for dart and flutter
 
